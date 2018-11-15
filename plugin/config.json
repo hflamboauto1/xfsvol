@@ -19,7 +19,7 @@
             "Settable": [
                 "value"
             ],
-            "Value": "/mnt/xfs/volumes"
+            "Value": "/mnt/xfs-docker"
         },
         {
             "Description": "Default size to apply to volumes when no value is specified",
